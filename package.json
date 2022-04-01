@@ -1,0 +1,19 @@
+{
+  "name": "package-lock.json",
+  "version": "1.0.0",
+  "description": "JSON",
+  "main": "package.json",
+  "scripts": {
+    "test": "yes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NIKITHA-18/alcovex-task3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NIKITHA-18/alcovex-task3/issues"
+  },
+  "homepage": "https://github.com/NIKITHA-18/alcovex-task3#readme"
+}
