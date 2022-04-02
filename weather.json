@@ -1,0 +1,149 @@
+{
+    "query": {
+     "count": 1,
+     "created": "2022-04-01",
+     "lang": "en-US",
+     "results": {
+      "channel": {
+       "units": {
+        "distance": "mi",
+        "pressure": "in",
+        "speed": "mph",
+        "temperature": "F"
+       },
+       "title": "Yahoo! Weather",
+       "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-2459115/",
+       "description": "Yahoo! Weather for New York, NY, US",
+       "language": "en-us",
+       "lastBuildDate": "Tue, 2 april 2022 10:10 AM IST",
+       "ttl": "60",
+       "location": {
+        "city": "Visakhapatnam",
+        "country": "andhra pradesh",
+        "region": " AP"
+       },
+       "wind": {
+        "chill": "32",
+        "direction": "310",
+        "speed": "29"
+       },
+       "atmosphere": {
+        "humidity": "40",
+        "pressure": "1017.0",
+        "rising": "0",
+        "visibility": "16.1"
+       },
+       "astronomy": {
+        "sunrise": "6:52 am",
+        "sunset": "4:33 pm"
+       },
+       "image": {
+        "title": "Yahoo! Weather",
+        "width": "142",
+        "height": "18",
+        "link": "http://weather.yahoo.com",
+        "url": "http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif"
+       },
+       "item": {
+        "title": "Conditions for Visakhapatnam, AP, India at 10:00 AM IST",
+        "lat": "40.71455",
+        "long": "-74.007118",
+        "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-2459115/",
+        "pubDate": "Tue, 2 april 2022 10:00 PM IST",
+        "condition": {
+         "code": "23",
+         "date": "saturday, 2 april 2022 10:00 PM IST",
+         "temp": "42",
+         "text": "Breezy"
+        },
+        "forecast": [
+         {
+          "code": "23",
+          "date": "2 april 2022",
+          "day": "saturday",
+          "high": "44",
+          "low": "35",
+          "text": "Breezy"
+         },
+         {
+          "code": "30",
+          "date": "3 april 2022",
+          "day": "sunday",
+          "high": "47",
+          "low": "34",
+          "text": "Partly Cloudy"
+         },
+         {
+          "code": "26",
+          "date": "4 april 2022",
+          "day": "mon",
+          "high": "51",
+          "low": "38",
+          "text": "Cloudy"
+         },
+         {
+          "code": "26",
+          "date": "5 april 2022",
+          "day": "Tue",
+          "high": "51",
+          "low": "45",
+          "text": "Cloudy"
+         },
+         {
+          "code": "30",
+          "date": "6 april 202",
+          "day": "Wed",
+          "high": "51",
+          "low": "44",
+          "text": "Partly Cloudy"
+         },
+         {
+          "code": "30",
+          "date": "5 april 2022",
+          "day": "Wed",
+          "high": "49",
+          "low": "38",
+          "text": "Partly Cloudy"
+         },
+         {
+          "code": "12",
+          "date": "6 april 2022",
+          "day": "Thur",
+          "high": "50",
+          "low": "38",
+          "text": "Rain"
+         },
+         {
+          "code": "12",
+          "date": "7 april 2022",
+          "day": "Fri",
+          "high": "54",
+          "low": "42",
+          "text": "Rain"
+         },
+         {
+          "code": "28",
+          "date": "8 april 2022",
+          "day": "Sat",
+          "high": "54",
+          "low": "43",
+          "text": "Mostly Cloudy"
+         },
+         {
+          "code": "39",
+          "date": "09 May 2022",
+          "day": "Mon",
+          "high": "51",
+          "low": "42",
+          "text": "Scattered Showers"
+         }
+        ],
+        "description": "<![CDATA[<img src=\"http://l.yimg.com/a/i/us/we/52/23.gif\"/>\n<BR />\n<b>Current Conditions:</b>\n<BR />Breezy\n<BR />\n<BR />\n<b>Forecast:</b>\n<BR /> Tue - Breezy. High: 44Low: 35\n<BR /> Wed - Partly Cloudy. High: 47Low: 34\n<BR /> Thu - Cloudy. High: 51Low: 38\n<BR /> Fri - Cloudy. High: 51Low: 45\n<BR /> Sat - Partly Cloudy. High: 51Low: 44\n<BR />\n<BR />\n<a href=\"http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-2459115/\">Full Forecast at Yahoo! Weather</a>\n<BR />\n<BR />\n(provided by <a href=\"http://www.weather.com\" >The Weather Channel</a>)\n<BR />\n]]>",
+        "guid": {
+         "isPermaLink": "false"
+        }
+       }
+      }
+     }
+    }
+   }
